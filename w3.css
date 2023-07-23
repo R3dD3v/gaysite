@@ -267,3 +267,22 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 
     transition-duration: 100ms;
 }
+
+.socials {
+    justify-content: center;
+    display: flex;
+    justify-items: center;
+}
+
+.bLogo {
+    align-self: center;
+    margin: 16px;
+    width: 30px;
+    transition-duration: 150ms;
+}
+
+.bLogo:hover {
+    margin: 10px;
+    width: 36px;
+    transition-duration: 350ms;
+}
